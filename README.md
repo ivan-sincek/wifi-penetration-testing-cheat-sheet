@@ -6,7 +6,7 @@ Everything was tested on Kali Linux v2021.2 (64-bit) and WiFi Pineapple Mark VII
 
 Everything was tested on Kali Linux v2021.2 (64-bit) and WiFi Pineapple NANO with firmware v2.7.0.
 
-For help with any of the tools write `<tool_name> -h | -hh | --help` or `man <tool_name>`.
+For help with any of the tools write `<tool_name> [-h | -hh | --help]` or `man <tool_name>`.
 
 Sometimes `-h` can be mistaken for a host or some other option. If that's the case, use `-hh` or `--help` instead, or read the manual with `man`.
 
