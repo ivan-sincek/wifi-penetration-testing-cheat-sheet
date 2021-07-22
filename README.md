@@ -333,7 +333,7 @@ Lists will be stored at `/usr/share/seclists/`.
 
 Or, manually download the collection from [GitHub](https://github.com/danielmiessler/SecLists/releases).
 
-Another popular wordlists collections:
+Another popular wordlist collections:
 
 * [weakpass.com/wordlist](https://weakpass.com/wordlist)
 * [packetstormsecurity.com/Crackers/wordlists](https://packetstormsecurity.com/Crackers/wordlists)
