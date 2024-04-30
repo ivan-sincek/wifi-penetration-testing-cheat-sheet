@@ -15,6 +15,7 @@ Websites that you should use while writing the report:
 * [cwe.mitre.org/data](https://cwe.mitre.org/data)
 * [owasp.org/projects](https://owasp.org/projects)
 * [cheatsheetseries.owasp.org](https://cheatsheetseries.owasp.org/Glossary.html)
+* [first.org/cvss/calculator/4.0](https://www.first.org/cvss/calculator/4.0)
 * [nvd.nist.gov/vuln-metrics/cvss/v3-calculator](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator)
 * [nvd.nist.gov/ncp/repository](https://nvd.nist.gov/ncp/repository)
 * [attack.mitre.org](https://attack.mitre.org)
